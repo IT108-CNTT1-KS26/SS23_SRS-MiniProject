@@ -21,7 +21,7 @@ cp security/.env.example .env
 - [ ] **Bước 4:** Bật Xác thực 2 yếu tố (2FA) qua Authenticator App cho GitHub, Google Workspace, và các hệ thống nội bộ.
 - [ ] **Bước 5:** Đọc tài liệu `mau-bao-cao-loi.md` để nắm vững quy trình tạo Bug Report và giao tiếp với đội ngũ IT/Dev.
 
-## 🛠 Bảng Trang Thiết Bị & Tài Khoản Cấp Phát
+## Bảng Trang Thiết Bị & Tài Khoản Cấp Phát
 | Hạng mục | Nền tảng / Công cụ | Quyền hạn / Trạng thái | Ghi chú quan trọng |
 |---|---|---|---|
 | **Email Công ty** | Google Workspace | User / Đã cấp | Chỉ dùng giao dịch công việc, không đăng ký dịch vụ cá nhân. |
